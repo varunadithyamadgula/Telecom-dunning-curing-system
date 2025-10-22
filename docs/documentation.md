@@ -26,7 +26,7 @@ It automates notifications, service restrictions, and service restoration after 
 
 ## 2. ER Diagram
 
-![ER Diagram](docs/ER.png)
+![ER Diagram](ER.png)
 
 
 
