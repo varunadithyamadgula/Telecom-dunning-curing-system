@@ -11,7 +11,9 @@ It automates notifications, service restrictions, and service restoration after 
 - Restore service automatically on payment (Curing).
 
 
-## 2. Entities for ER Diagram
+## 2. ER Diagram
+
+### Entities
 - Customer
 - Bill
 - Payment
@@ -20,6 +22,12 @@ It automates notifications, service restrictions, and service restoration after 
 - Notification
 - CuringAction
 - ServiceStatusHistory
+
+
+**ER Diagram Placeholder:**  
+![ER Diagram](ER.png)
+
+
 
 ---
 
