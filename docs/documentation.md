@@ -24,8 +24,10 @@ It automates notifications, service restrictions, and service restoration after 
 - ServiceStatusHistory
 
 
-**ER Diagram Placeholder:**  
+## 2. ER Diagram
+
 ![ER Diagram](ER.png)
+
 
 
 
